@@ -1,0 +1,25 @@
+.login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+    background-image: url('./spotify_logo.gif');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 45%;
+}
+
+/* .login >img{
+    width: 100%;
+} */
+
+.login > a{
+    padding: 20px;
+    border-radius: 99px;
+    background-color: #1db954;
+    margin-top: 100px;
+    font-weight: 700;
+    top: 100px;
+    color: white;
+    text-decoration: none;
+}
